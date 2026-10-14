@@ -1,5 +1,5 @@
-# CAP Cadet Check-In
-
+# CAP Cadet Check-In 
+Fork This to Use It
 A simple CAP attendance station with a keyboard barcode-reader mode, hosted as static files on Cloudflare Pages with a Google Apps Script backend.
 
 ## Features
